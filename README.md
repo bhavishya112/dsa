@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/bhavishya112/dsa/tree/master/0189-rotate-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/bhavishya112/dsa/tree/master/1961-maximum-ice-cream-bars) |
 ## Greedy
 |  |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/bhavishya112/dsa/tree/master/1961-maximum-ice-cream-bars) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/bhavishya112/dsa/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/bhavishya112/dsa/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
